@@ -1,0 +1,28 @@
+{
+  "name": "viida",
+  "displayName": "viida",
+  "description": "viida light theme",
+  "license": "MIT",
+  "icon": "icon.png",
+  "publisher": "viida",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thjxs/viida"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "viida",
+        "uiTheme": "vs",
+        "path": "./themes/viida-color-theme.json"
+      }
+    ]
+  }
+}
