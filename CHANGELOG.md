@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.3]
+
+- Change *comment* and *string* color
+
 ## [0.0.2]
 
 - Remove status bar item hover background color, use default instead.
