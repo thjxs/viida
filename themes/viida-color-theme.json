@@ -33,14 +33,14 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#10a567"
+        "foreground": "#219ebc"
       }
     },
     {
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#1FC276"
+        "foreground": "#fca311"
       }
     },
     {
