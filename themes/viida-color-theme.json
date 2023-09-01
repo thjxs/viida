@@ -6,6 +6,7 @@
     "editor.foreground": "#282A36",
     "editor.lineHighlightBackground": "#f8f8f8",
     "editor.selectionBackground": "#abdffa",
+    "editorLink.activeForeground": "#FF6AC1",
     "activityBar.background": "#c3c7cd",
     "activityBar.foreground": "#000000",
     "statusBar.background": "#c3c7cd",

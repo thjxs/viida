@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4]
+
+- Add color for active links
+
 ## [0.0.3]
 
 - Change *comment* and *string* color
