@@ -1,3 +1,3 @@
 # viida
 
-Light theme
+Provide a comfortable feeling for programming

@@ -1,11 +1,11 @@
 {
   "name": "viida",
   "displayName": "viida",
-  "description": "Light theme for daily use",
+  "description": "Light theme for daily use, dark theme for fun.",
   "license": "MIT",
   "icon": "icon.png",
   "publisher": "viida",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -19,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "viida",
+        "label": "Viida",
         "uiTheme": "vs",
         "path": "./themes/viida-color-theme.json"
+      },
+      {
+        "label": "Viida Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/viida-dark-color-theme.json"
       }
     ]
   }
