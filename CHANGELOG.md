@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.6]
+
+- [dark] Update indent active background color
+- [dark] Update string variable color
+
 ## [0.0.5]
 
 - Add dark theme
