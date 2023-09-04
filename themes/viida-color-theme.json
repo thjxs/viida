@@ -27,7 +27,7 @@
     "quickInputList.focusBackground": "#dbdde0",
     "quickInputList.focusForeground": "#101c32",
     "gitDecoration.modifiedResourceForeground": "#FF6AC1",
-    "gitDecoration.stageModifiedResourceForeground": "#FF6AC1",
+    "gitDecoration.stageModifiedResourceForeground": "#FF6AC1"
   },
   "tokenColors": [
     {
@@ -583,13 +583,13 @@
       "settings": {
         "foreground": "#386ac3"
       }
-		},
-		{
-				"name": "js/ts import keyword",
-				"scope": "keyword.operator.expression.import",
-				"settings": {
-						"foreground": "#386ac3"
-				}
+    },
+    {
+      "name": "js/ts import keyword",
+      "scope": "keyword.operator.expression.import",
+      "settings": {
+        "foreground": "#386ac3"
+      }
     },
     {
       "name": "Entity",
@@ -599,26 +599,25 @@
       }
     },
     {
-        "name": "Classes",
-        "scope": "entity.name.type.namespace",
-        "settings": {
-            "foreground": "#5978f3"
-        }
+      "name": "Classes",
+      "scope": "entity.name.type.namespace",
+      "settings": {
+        "foreground": "#5978f3"
+      }
     },
     {
-        "name": "Type Name",
-        "scope": "entity.name.type",
-        "settings": {
-            "foreground": "#163fe4"
-        }
+      "name": "Type Name",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#163fe4"
+      }
     },
     {
-        "name": "ts primitive/builtin types",
-        "scope":
-        "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
-        "settings": {
-            "foreground": "#000"
-        }
+      "name": "ts primitive/builtin types",
+      "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
+      "settings": {
+        "foreground": "#000"
+      }
     },
     {
       "scope": "string variable",
