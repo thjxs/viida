@@ -22,8 +22,8 @@
       "list.activeSelectionForeground": "#d7dae0",
       "list.inactiveSelectionBackground": "#2c313a",
       "editorIndentGuide.activeBackground1": "#898989",
-      "editorSuggestWidget.selectedBackground": "#dbdde0",
-      "editorSuggestWidget.selectedForeground": "#101c32",
+      "editorSuggestWidget.selectedBackground": "#2c313a",
+      "editorSuggestWidget.selectedForeground": "#d7dae0",
       "quickInputList.focusBackground": "#dbdde0",
       "quickInputList.focusForeground": "#101c32",
       "gitDecoration.modifiedResourceForeground": "#52B788",
@@ -628,4 +628,3 @@
       }
     ]
   }
-  

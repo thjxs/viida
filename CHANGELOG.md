@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7]
+
+- [dark] Update suggest list item background and foreground
+
 ## [0.0.6]
 
 - [dark] Update indent active background color
