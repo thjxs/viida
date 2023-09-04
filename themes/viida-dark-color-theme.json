@@ -1,6 +1,7 @@
 {
   "name": "viida",
   "colors": {
+    "focusBorder": "#D7DAE0",
     "editor.background": "#282c34",
     "editorCursor.foreground": "#D7DAE0",
     "editor.foreground": "#D7DAE0",
@@ -24,8 +25,11 @@
     "editorIndentGuide.activeBackground1": "#898989",
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorSuggestWidget.selectedForeground": "#d7dae0",
-    "quickInputList.focusBackground": "#dbdde0",
-    "quickInputList.focusForeground": "#101c32",
+    "pickerGroup.foreground": "#D7DAE0",
+    "quickInput.foreground": "#9c9c9c",
+    "quickInput.background": "#3c3c3c",
+    "quickInputList.focusForeground": "#9c9c9c",
+    "quickInputList.focusBackground": "#2C313A",
     "gitDecoration.modifiedResourceForeground": "#52B788",
     "gitDecoration.stageModifiedResourceForeground": "#52B788"
   },

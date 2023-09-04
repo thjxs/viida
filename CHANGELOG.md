@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.8]
+
+- [dark] Unified list color
+
 ## [0.0.7]
 
 - [dark] Update suggest list item background and foreground
