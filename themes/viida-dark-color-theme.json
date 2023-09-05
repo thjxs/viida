@@ -175,7 +175,7 @@
       "name": "CSS selector punctuation",
       "scope": "meta.selector.css meta.attribute-selector.css punctuation.separator.operator.css",
       "settings": {
-        "foreground": "#535353"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -185,7 +185,7 @@
         "meta.selector.css entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#535353"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -223,7 +223,7 @@
       "name": "CSS property-value",
       "scope": "meta.property-value.css",
       "settings": {
-        "foreground": "#535353"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -265,7 +265,7 @@
         "punctuation.section.property-list.css"
       ],
       "settings": {
-        "foreground": "#535353"
+        "foreground": "#D7DAE0"
       }
     },
     {

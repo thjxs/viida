@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.9]
+
+- [dark] Update css colors
+
 ## [0.0.8]
 
 - [dark] Unified list color
