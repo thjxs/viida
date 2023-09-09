@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.0.10]
+
+- [dark] Update title bar inactive background
+- [dark] Update list highlight color
+- [dark] Update input background
+- [dark] Make quick input list color same as sidebar list
+
 ## [0.0.9]
 
 - [dark] Update css colors
