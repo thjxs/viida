@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.0.11]
+
+- [light] Update git decoration color
+- [light] Update indent guide color
+- [light] Update title bar color
+- [light] Change editor selection background color to #c6f0c2
+
 ## [0.0.10]
 
 - [dark] Update title bar inactive background
