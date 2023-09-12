@@ -6,6 +6,8 @@
     "editor.foreground": "#282A36",
     "editor.lineHighlightBackground": "#f8f8f8",
     "editor.selectionBackground": "#c6f0c2",
+    "editor.findMatchBackground": "#c6f0c2",
+    "minimap.selectionHighlight": "#c6f0c296",
     "editorLink.activeForeground": "#FF6AC1",
     "activityBar.background": "#c3c7cd",
     "activityBar.foreground": "#000000",

@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.12]
+
+- [light] Update find match color
+
 ## [0.0.11]
 
 - [light] Update git decoration color
