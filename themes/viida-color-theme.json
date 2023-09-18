@@ -36,6 +36,9 @@
     "editorSuggestWidget.selectedForeground": "#101c32",
     "quickInputList.focusBackground": "#dbdde0",
     "quickInputList.focusForeground": "#101c32",
+    "diffEditor.insertedTextBackground": "#c6f0c2",
+    "diffEditor.insertedLineBackground": "#c6f0c233",
+    "diffEditor.removedLineBackground": "#fbdfe1",
     "gitDecoration.modifiedResourceForeground": "#c1121f",
     "gitDecoration.stageModifiedResourceForeground": "#006d77",
     "gitDecoration.addedResourceForeground": "#006d77"
@@ -52,7 +55,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#fca311"
+        "foreground": "#c1121f"
       }
     },
     {
