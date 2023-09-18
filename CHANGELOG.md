@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.13]
+
+- [light] Update highlight background
+- [light] Update diff colors
+
 ## [0.0.12]
 
 - [light] Update find match color
