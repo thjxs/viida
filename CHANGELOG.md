@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.14]
+
+- [light] Update light theme sidebar, activity bar and main content color
+
 ## [0.0.13]
 
 - [light] Update highlight background
