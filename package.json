@@ -5,7 +5,7 @@
   "license": "MIT",
   "icon": "icon.png",
   "publisher": "viida",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "engines": {
     "vscode": "^1.81.0"
   },

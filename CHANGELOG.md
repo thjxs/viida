@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.15]
+
+- [light] Make status bar and activity bar same as editor background
+- [dark] Update line number foreground
+
 ## [0.0.14]
 
 - [light] Update light theme sidebar, activity bar and main content color
