@@ -13,7 +13,7 @@
     "statusBar.background": "#282c34",
     "statusBar.foreground": "#D7DAE0",
     "statusBar.noFolderBackground": "#a4a9b2",
-    "editorLineNumber.foreground": "#bbbbbb",
+    "editorLineNumber.foreground": "#898989",
     "sideBar.background": "#21252b",
     "titleBar.activeBackground": "#282c34",
     "titleBar.inactiveBackground": "#282c34",
