@@ -34,9 +34,9 @@
     "input.background": "#ffffff12",
     "list.highlightForeground": "#ff9632",
     "list.focusHighlightForeground": "#ff9632",
-    "editorLink.activeForeground": "#52B788",
-    "gitDecoration.modifiedResourceForeground": "#52B788",
-    "gitDecoration.stageModifiedResourceForeground": "#52B788"
+    "editorLink.activeForeground": "#09BC8A",
+    "gitDecoration.modifiedResourceForeground": "#09BC8A",
+    "gitDecoration.stageModifiedResourceForeground": "#09BC8A"
   },
   "tokenColors": [
     {
@@ -114,7 +114,7 @@
       "scope": "constant.other",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -135,7 +135,7 @@
         "text.xml constant.character.entity.xml"
       ],
       "settings": {
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -241,7 +241,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -299,7 +299,7 @@
         "meta.function.json.js variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "LaTeX section",
       "scope": "text.tex.latex meta.function.section.latex entity.name.section.latex",
       "settings": {
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -353,7 +353,7 @@
       "scope": "text.tex.latex variable.parameter.function.latex",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -361,7 +361,7 @@
       "scope": "text.tex.latex constant.other.reference",
       "settings": {
         "fontStyle": "",
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
@@ -604,7 +604,7 @@
       "name": "Entity",
       "scope": "entity",
       "settings": {
-        "foreground": "#52B788"
+        "foreground": "#09BC8A"
       }
     },
     {
