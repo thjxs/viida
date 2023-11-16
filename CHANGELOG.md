@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.16]
+
+- [dark] Make green color lighter
+- [dark] Change status bar no folder background to black
+- [light] Change status bar no folder background to white
+
 ## [0.0.15]
 
 - [light] Make status bar and activity bar same as editor background
