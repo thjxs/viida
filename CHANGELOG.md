@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.17]
+
+- Change primitive color
+
 ## [0.0.16]
 
 - [dark] Make green color lighter
