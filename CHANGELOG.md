@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.18]
+
+- Enhance text color contrast ratio
+
 ## [0.0.17]
 
 - Change primitive color
