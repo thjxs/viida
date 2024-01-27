@@ -34,9 +34,9 @@
     "input.background": "#ffffff12",
     "list.highlightForeground": "#ff9632",
     "list.focusHighlightForeground": "#ff9632",
-    "editorLink.activeForeground": "#09BC8A",
-    "gitDecoration.modifiedResourceForeground": "#09BC8A",
-    "gitDecoration.stageModifiedResourceForeground": "#09BC8A"
+    "editorLink.activeForeground": "#0ad29a",
+    "gitDecoration.modifiedResourceForeground": "#0ad29a",
+    "gitDecoration.stageModifiedResourceForeground": "#0ad29a"
   },
   "tokenColors": [
     {
@@ -99,14 +99,14 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -114,7 +114,7 @@
       "scope": "constant.other",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -135,7 +135,7 @@
         "text.xml constant.character.entity.xml"
       ],
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -241,7 +241,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -299,7 +299,7 @@
         "meta.function.json.js variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "LaTeX section",
       "scope": "text.tex.latex meta.function.section.latex entity.name.section.latex",
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -353,7 +353,7 @@
       "scope": "text.tex.latex variable.parameter.function.latex",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -361,7 +361,7 @@
       "scope": "text.tex.latex constant.other.reference",
       "settings": {
         "fontStyle": "",
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
@@ -597,7 +597,7 @@
       "name": "Entity",
       "scope": "entity",
       "settings": {
-        "foreground": "#09BC8A"
+        "foreground": "#0ad29a"
       }
     },
     {
