@@ -92,7 +92,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#FF5C57"
+        "foreground": "#F9F1A5"
       }
     },
     {
@@ -554,14 +554,14 @@
       "name": "parameter function",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#FF5C57"
+        "foreground": "#F9F1A5"
       }
     },
     {
       "name": "js/ts Keyword new",
       "scope": "keyword.oper",
       "settings": {
-        "foreground": "#FF5C57"
+        "foreground": "#F9F1A5"
       }
     },
     {
