@@ -160,7 +160,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -200,14 +200,14 @@
         "meta.at-rule support.type.property-name"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
       "name": "CSS at-rule support constant",
       "scope": "meta.at-rule support.constant",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -221,7 +221,7 @@
       "name": "CSS property-name keyword",
       "scope": "meta.property-name.css support.type.property-name.css",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -252,7 +252,7 @@
         "meta.at-rule constant.numeric.css keyword.other.unit.css"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -328,7 +328,7 @@
       "name": "LaTeX mathmode",
       "scope": "text.tex.latex string.other.math",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -368,7 +368,7 @@
       "name": "LaTeX package",
       "scope": "text.tex.latex meta.preamble.latex support.class.latex",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -604,27 +604,27 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#72bfff"
       }
     },
     {
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#72bfff"
       }
     },
     {
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#72bfff"
       }
     },
     {
       "scope": "string variable",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#72bfff"
       }
     }
   ]
