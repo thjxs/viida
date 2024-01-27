@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.19]
+
+- [dark] Enhance entity name type, numeric, parameter color contrast ratio
+
 ## [0.0.18]
 
 - Enhance text color contrast ratio
