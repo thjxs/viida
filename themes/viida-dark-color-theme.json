@@ -558,13 +558,6 @@
       }
     },
     {
-      "name": "parameter function",
-      "scope": "function.parameter",
-      "settings": {
-        "foreground": "#FF5C57"
-      }
-    },
-    {
       "name": "js/ts Keyword new",
       "scope": "keyword.oper",
       "settings": {
