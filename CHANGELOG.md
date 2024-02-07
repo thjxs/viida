@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.20]
+
+- [light] Update find match, inserted text and removed line background opacity
+
 ## [0.0.19]
 
 - [dark] Enhance entity name type, numeric, parameter color contrast ratio
