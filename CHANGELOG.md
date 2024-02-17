@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.21]
+
+- [light] Update list focus outline
+- [light] Update title bar background
+
 ## [0.0.20]
 
 - [light] Update find match, inserted text and removed line background opacity
