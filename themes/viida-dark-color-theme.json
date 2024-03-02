@@ -148,6 +148,8 @@
     {
       "name": "Tag start/end",
       "scope": [
+        "meta.tag.start",
+        "meta.tag.end",
         "punctuation.definition.tag.begin",
         "punctuation.definition.tag.end",
         "punctuation.definition.tag.html"
