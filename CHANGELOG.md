@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.0]
+
+- Add svelte component highlight
+
 ## [0.0.21]
 
 - [light] Update list focus outline
