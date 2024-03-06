@@ -20,6 +20,7 @@
     "list.activeSelectionForeground": "#d7dae0",
     "quickInputList.focusForeground": "#d7dae0",
     "editorSuggestWidget.selectedForeground": "#d7dae0",
+    "inputOption.activeBorder": "#898989",
     "editorLineNumber.foreground": "#898989",
     "editorIndentGuide.activeBackground1": "#898989",
     "editor.selectionBackground": "#454545",
