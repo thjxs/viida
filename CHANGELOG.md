@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.1]
+
+- [dark] Update input option active border
+
 ## [0.1.0]
 
 - Add svelte component highlight
