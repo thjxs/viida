@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.2]
+
+- Update this keyword color
+
 ## [0.1.1]
 
 - [dark] Update input option active border
