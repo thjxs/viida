@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.2.0]
+
+- Add console color
+- Add status bar item color
+
 ## [0.1.2]
 
 - Update this keyword color
