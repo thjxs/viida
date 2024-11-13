@@ -2,46 +2,69 @@
   "name": "viida",
   "colors": {
     "editor.background": "#fff",
-    "statusBar.background": "#fff",
-    "activityBar.background": "#fff",
-    "titleBar.activeBackground": "#fff",
-    "titleBar.inactiveBackground": "#fff",
-    "statusBar.noFolderBackground": "#fff",
     "editor.lineHighlightBackground": "#fff",
     "editor.foreground": "#101c32",
-    "statusBar.foreground": "#101c32",
-    "activityBar.foreground": "#101c32",
-    "editorCursor.foreground": "#101c32",
-    "titleBar.activeForeground": "#101c32",
-    "list.activeSelectionForeground": "#101c32",
-    "quickInputList.focusForeground": "#101c32",
-    "editorSuggestWidget.selectedForeground": "#101c32",
-    "editorLineNumber.foreground": "#bbbbbb",
-    "editorIndentGuide.activeBackground1": "#bbbbbb",
     "editor.selectionBackground": "#d0d7de69",
-    "minimap.selectionHighlight": "#d0d7de69",
     "editor.wordHighlightBackground": "#d0d7de69",
     "editor.wordHighlightStrongBackground": "#d0d7de69",
     "editor.snippetTabstopHighlightBackground": "#d0d7de69",
-    "sideBarSectionHeader.background": "#d0d7de69",
-    "list.hoverBackground": "#d0d7de69",
-    "list.activeSelectionBackground": "#d0d7de69",
-    "quickInputList.focusBackground": "#d0d7de69",
-    "list.inactiveSelectionBackground": "#d0d7de69",
-    "editorSuggestWidget.selectedBackground": "#d0d7de69",
-    "editorIndentGuide.background1": "#d0d7de69",
-    "sideBar.background": "#f6f8fa",
-    "quickInput.background": "#f6f8fa",
-    "editorSuggestWidget.background": "#f6f8fa",
     "editor.findMatchHighlightBackground": "#c6f0c24d",
     "editor.findMatchBackground": "#c6f0c2",
-    "searchEditor.findMatchBackground": "#c6f0c2",
+    "editor.findMatchHighlightBorder": "#219ebc",
+
+    "editorSuggestWidget.selectedForeground": "#101c32",
+    "editorSuggestWidget.selectedBackground": "#d0d7de69",
+    "editorSuggestWidget.background": "#f6f8fa",
+
+    "editorLink.activeForeground": "#FF6AC1",
+
+    "editorCursor.foreground": "#101c32",
+
+    "editorLineNumber.foreground": "#bbbbbb",
+
+    "editorIndentGuide.activeBackground1": "#bbbbbb",
+    "editorIndentGuide.background1": "#d0d7de69",
+
+    "statusBar.background": "#fff",
+    "statusBar.noFolderBackground": "#fff",
+    "statusBar.foreground": "#101c32",
+
+    "statusBarItem.warningBackground": "#cc6633",
+
+    "activityBar.background": "#fff",
+    "activityBar.foreground": "#101c32",
+
+    "titleBar.activeBackground": "#fff",
+    "titleBar.inactiveBackground": "#fff",
+    "titleBar.activeForeground": "#101c32",
+
+    "sideBar.background": "#f6f8fa",
+
+    "sideBarSectionHeader.background": "#d0d7de69",
+
+    "list.activeSelectionForeground": "#101c32",
+    "list.hoverBackground": "#d0d7de69",
+    "list.activeSelectionBackground": "#d0d7de69",
+    "list.inactiveSelectionBackground": "#d0d7de69",
+    "list.focusOutline": "#219ebc",
+
+    "quickInput.background": "#f6f8fa",
+
+    "quickInputList.focusForeground": "#101c32",
+    "quickInputList.focusBackground": "#d0d7de69",
+
     "diffEditor.insertedTextBackground": "#c6f0c240",
     "diffEditor.insertedLineBackground": "#c6f0c233",
-    "list.focusOutline": "#219ebc",
-    "editor.findMatchHighlightBorder": "#219ebc",
-    "editorLink.activeForeground": "#FF6AC1",
     "diffEditor.removedLineBackground": "#fbdfe14d",
+
+    "searchEditor.findMatchBackground": "#c6f0c2",
+
+    "minimap.selectionHighlight": "#d0d7de69",
+
+    "debugConsole.infoForeground": "#101c32",
+    "debugConsole.warningForeground": "#ff9632",
+    "debugConsole.errorForeground": "#c1121f",
+
     "gitDecoration.modifiedResourceForeground": "#c1121f",
     "gitDecoration.stageModifiedResourceForeground": "#006d77",
     "gitDecoration.addedResourceForeground": "#006d77"
