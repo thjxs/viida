@@ -12,8 +12,6 @@
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorSuggestWidget.background": "#21252b",
 
-    "editorLink.activeForeground": "#0ad29a",
-
     "editorCursor.foreground": "#d7dae0",
 
     "editorLineNumber.foreground": "#898989",
