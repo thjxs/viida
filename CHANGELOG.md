@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.4]
+
+- Remove link active foreground
+
 ## [0.2.3]
 
 - Darken editor gutter added modified background
