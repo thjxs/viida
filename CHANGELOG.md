@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.2]
+
+- Change editor gutter added modified background
+
 ## [0.2.1]
 
 - Change entity name function color
