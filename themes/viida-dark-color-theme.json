@@ -20,8 +20,8 @@
 
     "editorIndentGuide.activeBackground1": "#898989",
 
-    "editorGutter.addedBackground": "#0ad29a",
-    "editorGutter.modifiedBackground": "#72bfff",
+    "editorGutter.addedBackground": "#3e6a00",
+    "editorGutter.modifiedBackground": "#3e6a9d",
 
     "statusBar.background": "#282c34",
     "statusBar.noFolderBackground": "#282c34",
