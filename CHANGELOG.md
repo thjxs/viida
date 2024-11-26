@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.2.1]
+
+- Change entity name function color
+- Change entity name section color
+- Change markdown heading color
+
 ## [0.2.0]
 
 - Add console color
