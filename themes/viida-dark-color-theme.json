@@ -452,6 +452,7 @@
       "name": "Sections",
       "scope": "entity.name.section",
       "settings": {
+        "foreground": "#e06c75",
         "fontStyle": "bold"
       }
     },
@@ -626,13 +627,6 @@
       "scope": "keyword.operator.expression.import",
       "settings": {
         "foreground": "#e06c75"
-      }
-    },
-    {
-      "name": "Entity",
-      "scope": "entity",
-      "settings": {
-        "foreground": "#0ad29a"
       }
     },
     {
