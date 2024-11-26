@@ -331,10 +331,11 @@
         "support.constant.js",
         "entity.name.function.js",
         "entity.name.function.ts",
+        "entity.name.function.tsx",
         "meta.function.json.js variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#0ad29a"
+        "foreground": "#72bfff"
       }
     },
     {
@@ -459,18 +460,6 @@
     {
       "name": "CSS: Important Keyword",
       "scope": "keyword.other.important",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Functions",
-      "scope": [
-        "entity.name.function",
-        "meta.require",
-        "support.function.any-method",
-        "variable.function"
-      ],
       "settings": {
         "fontStyle": "bold"
       }
