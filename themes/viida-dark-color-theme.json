@@ -148,7 +148,7 @@
     },
     {
       "name": "heading",
-      "scope":"punctuation.definition.heading",
+      "scope": "punctuation.definition.heading",
       "settings": {
         "foreground": "#e06c75"
       }
@@ -650,7 +650,7 @@
     },
     {
       "name": "string.other.link.title",
-      "scope":"string.other.link.title",
+      "scope": "string.other.link.title",
       "settings": {
         "foreground": "#72bfff"
       }
