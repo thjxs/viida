@@ -144,6 +144,13 @@
       }
     },
     {
+      "name": "heading",
+      "scope":"punctuation.definition.heading",
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
       "name": "HTML declaration",
       "scope": [
         "text.html.basic meta.tag.sgml.html punctuation.definition.tag.html",
@@ -651,6 +658,13 @@
     },
     {
       "scope": "string variable",
+      "settings": {
+        "foreground": "#72bfff"
+      }
+    },
+    {
+      "name": "string.other.link.title",
+      "scope":"string.other.link.title",
       "settings": {
         "foreground": "#72bfff"
       }
