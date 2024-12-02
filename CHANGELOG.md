@@ -1,5 +1,14 @@
 # Change Log
 
+## [0.2.5]
+
+- Change editor header tabs background
+- Change side bar section header background
+- Change tab inactive background
+- Change tab border
+- Change menu background
+- Change menu selection background
+
 ## [0.2.4]
 
 - Remove link active foreground
