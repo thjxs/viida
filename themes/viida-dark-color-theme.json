@@ -18,6 +18,8 @@
 
     "editorIndentGuide.activeBackground1": "#898989",
 
+    "editorGroupHeader.tabsBackground": "#2c313a",
+
     "editorGutter.addedBackground": "#3e6a00",
     "editorGutter.modifiedBackground": "#3e6a9d",
 
@@ -35,6 +37,14 @@
     "titleBar.inactiveBackground": "#282c34",
 
     "sideBar.background": "#21252b",
+
+    "sideBarSectionHeader.background": "#282c34",
+
+    "tab.inactiveBackground": "#2c313a",
+    "tab.border": "#2c313a",
+
+    "menu.background": "#333537f5",
+    "menu.selectionBackground": "#454545",
 
     "list.focusOutline": "#d7dae0",
     "list.activeSelectionForeground": "#d7dae0",
