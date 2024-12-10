@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.2.6]
+
+- Change menu style
+- Change selection background
+- Change editor widget background and hover background
+
 ## [0.2.5]
 
 - Change editor header tabs background
