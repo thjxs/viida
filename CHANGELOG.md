@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.2.7]
+
+- Remove active selection background
+
 ## [0.2.6]
 
 - Change menu style
