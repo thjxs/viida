@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.3.0]
+
+- Add half dark color theme
+
 ## [0.2.7]
 
 - Remove active selection background
