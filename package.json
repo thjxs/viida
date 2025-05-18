@@ -27,6 +27,11 @@
         "label": "Viida Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/viida-dark-color-theme.json"
+      },
+      {
+        "label": "Viida Half Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/viida-half-dark-color-theme.json"
       }
     ]
   }
