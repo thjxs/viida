@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.3.1]
+
+- [half_dark] Set list warning foreground
+
 ## [0.3.0]
 
 - Add half dark color theme
