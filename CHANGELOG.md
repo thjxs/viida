@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.3.2]
+
+- [light] Change function font style to normal
+
 ## [0.3.1]
 
 - [half_dark] Set list warning foreground
