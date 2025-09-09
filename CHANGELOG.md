@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.3.3]
+
+- [light] Change list editor hover & active background color
+
 ## [0.3.2]
 
 - [light] Change function font style to normal
