@@ -4,9 +4,9 @@
     "editor.background": "#fff",
     "editor.lineHighlightBackground": "#fff",
     "editor.foreground": "#101c32",
-    "editor.selectionBackground": "#d0d7de69",
-    "editor.wordHighlightBackground": "#d0d7de69",
-    "editor.wordHighlightStrongBackground": "#d0d7de69",
+    "editor.selectionBackground": "#add6ff69",
+    "editor.wordHighlightBackground": "#add6ff26",
+    "editor.wordHighlightStrongBackground": "#add6ff26",
     "editor.snippetTabstopHighlightBackground": "#d0d7de69",
     "editor.findMatchHighlightBackground": "#c6f0c24d",
     "editor.findMatchBackground": "#c6f0c2",
@@ -43,8 +43,8 @@
     "sideBarSectionHeader.background": "#d0d7de69",
 
     "list.activeSelectionForeground": "#101c32",
-    "list.hoverBackground": "#d0d7de69",
-    "list.activeSelectionBackground": "#d0d7de69",
+    "list.hoverBackground": "#add6ff26",
+    "list.activeSelectionBackground": "#add6ff69",
     "list.inactiveSelectionBackground": "#d0d7de69",
     "list.focusOutline": "#219ebc",
 
