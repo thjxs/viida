@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.3.4]
+
+- [light] Change attribute name color
+
 ## [0.3.3]
 
 - [light] Change list editor hover & active background color
