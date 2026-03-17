@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.3.5]
+
+- [dark] Change input background
+- [half_dark] Change input background
+
 ## [0.3.4]
 
 - [light] Change attribute name color
