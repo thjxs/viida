@@ -60,7 +60,7 @@
     "list.highlightForeground": "#ff9632",
     "list.focusHighlightForeground": "#ff9632",
 
-    "input.background": "#ffffff12",
+    "input.background": "#282c34",
 
     "quickInput.foreground": "#d7dae0",
     "quickInput.background": "#21252b",
